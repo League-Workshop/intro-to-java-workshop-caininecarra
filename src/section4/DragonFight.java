@@ -1,4 +1,4 @@
-package section4;
+tpackage section4;
 
 import java.util.Random;
 import javax.swing.JOptionPane;
